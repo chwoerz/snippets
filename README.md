@@ -1,1 +1,1 @@
-# snippets
+# A repository for useful code snippets
